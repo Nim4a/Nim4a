@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nim4a/Nim4a/main/assets/banner-dark.svg">
-  <img src="https://raw.githubusercontent.com/Nim4a/Nim4a/main/assets/banner-light.svg" alt="Nima — Rust · Python · TypeScript" width="100%">
+  <img src="https://raw.githubusercontent.com/Nim4a/Nim4a/main/assets/banner-light.svg" alt="Nima Asbagh — Rust · Python · TypeScript" width="100%">
 </picture>
 
 <div align="center">
@@ -14,55 +14,32 @@
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<a href="https://github.com/Nim4a/picoSun2">
+<img src="https://raw.githubusercontent.com/Nim4a/Nim4a/main/assets/picosun2.png" alt="picoSun2 — Rust + egui photo viewer" width="100%">
+</a>
 
-### 🖼️ picoSun2 <sub>featured</sub>
+### 🖼️ picoSun2 &nbsp;<sub>featured</sub>
 
-**Rust · egui** — fast, minimal Windows photo viewer.
-Full-res RAW, per-folder cache, filmstrip.
+**Rust · egui** — fast, minimal Windows photo viewer. Full-res RAW, per-folder cache, filmstrip.
 
-| | |
-|---|---|
-| RAW demosaic | **4s** for a 26MP ARW |
-| Filmstrip fill | **0.35s** |
-| VRAM | **285MB** |
+| RAW demosaic | Filmstrip fill | VRAM |
+|:--|:--|:--|
+| **4s** for a 26MP ARW | **0.35s** | **285MB** |
 
 [**Repository**](https://github.com/Nim4a/picoSun2) &nbsp;·&nbsp; [**Download .exe**](https://github.com/Nim4a/picoSun2/releases/latest)
 
-</td>
-<td width="45%" valign="top">
-
-<a href="https://github.com/Nim4a/picoSun2">
-<img src="https://raw.githubusercontent.com/Nim4a/Nim4a/main/assets/picosun2.png" alt="picoSun2 screenshot" width="100%">
-</a>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="45%" valign="top">
+---
 
 <a href="https://github.com/Nim4a/audio-output-gadget">
-<img src="https://raw.githubusercontent.com/Nim4a/Nim4a/main/assets/audio-gadget.png" alt="Audio Output gadget" width="100%">
+<img src="https://raw.githubusercontent.com/Nim4a/Nim4a/main/assets/audio-gadget.png" alt="Audio Output — Windows sidebar gadget" width="100%">
 </a>
-
-</td>
-<td width="55%" valign="top">
 
 ### 🔊 Audio Output Gadget
 
-**C# · HTML · JS** — Windows sidebar gadget for 8GadgetPack.
-Switch output device, volume, mute. 10 themes, 13 accents, real blurred glass.
+**C# · HTML · JS** — Windows sidebar gadget for 8GadgetPack. Switch output device, volume, mute.
+10 themes, 13 accents, real blurred glass.
 
 [**Repository**](https://github.com/Nim4a/audio-output-gadget)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -80,6 +57,6 @@ Switch output device, volume, mute. 10 themes, 13 accents, real blurred glass.
 
 <div align="center">
 
-<sub>Persian / فارسی: هر ریپو README دوزبانه دارد.</sub>
+<sub>فارسی: هر ریپو README دوزبانه دارد · Persian READMEs inside each repo</sub>
 
 </div>
