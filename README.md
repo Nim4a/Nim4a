@@ -30,16 +30,16 @@
 
 ---
 
-<a href="https://github.com/Nim4a/audio-output-gadget">
-<img src="https://raw.githubusercontent.com/Nim4a/Nim4a/main/assets/audio-gadget.png" alt="Audio Output — Windows sidebar gadget" width="100%">
+<a href="https://github.com/Nim4a/nima-portfolio">
+<img src="https://raw.githubusercontent.com/Nim4a/nima-portfolio/main/docs/hero.png" alt="Nima Portfolio — three hardcover books on a shelf" width="100%">
 </a>
 
-### 🔊 Audio Output Gadget
+### 📚 Nima Portfolio
 
-**C# · HTML · JS** — Windows sidebar gadget for 8GadgetPack. Switch output device, volume, mute.
-10 themes, 13 accents, real blurred glass.
+**Cloudflare Worker · KV** — a photographer's portfolio in one Worker, no static hosting.
+Three 3D hardcovers on a shelf; wipe the dust off a cover with real particle physics to open it.
 
-[**Repository**](https://github.com/Nim4a/audio-output-gadget)
+[**Repository**](https://github.com/Nim4a/nima-portfolio)
 
 ---
 
@@ -47,7 +47,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**nima-portfolio**](https://github.com/Nim4a/nima-portfolio) | Photographer portfolio with a 3D flip photobook — wipe the dust off the cover to open it | Cloudflare Worker · KV |
+| [**audio-output-gadget**](https://github.com/Nim4a/audio-output-gadget) | Windows sidebar gadget: switch output device, volume, mute — 10 themes, 13 accents | C# · HTML · JS |
 | [**link-relay**](https://github.com/Nim4a/link-relay) | Merges many subscription links into one, with bulk config editing | JS · Workers |
 | [**weather-bot**](https://github.com/Nim4a/weather-bot) | Telegram weather bot: multi-location, animated forecast GIF | Python · Workers |
 | [**ToolGram-Desktop**](https://github.com/Nim4a/ToolGram-Desktop) | Patched Telegram Desktop fork with a CI build pipeline | C++ · CMake |
