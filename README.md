@@ -39,7 +39,7 @@
 **Cloudflare Worker · KV** — a photographer's portfolio in one Worker, no static hosting.
 Three 3D hardcovers on a shelf; wipe the dust off a cover with real particle physics to open it.
 
-[**Live site**](https://portofolio.nim.qzz.io/) &nbsp;·&nbsp; [**Repository**](https://github.com/Nim4a/nima-portfolio)
+[**Live site**](https://portfolio.nim.qzz.io/) &nbsp;·&nbsp; [**Repository**](https://github.com/Nim4a/nima-portfolio)
 
 ---
 
