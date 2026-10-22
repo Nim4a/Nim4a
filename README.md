@@ -5,7 +5,7 @@
 
 <div align="center">
 
-### I build small, fast tools — photo viewers, desktop gadgets, edge Workers.
+### I create. Therefore, I exist..
 
 <a href="https://github.com/Nim4a?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2c2c2c?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 <a href="https://github.com/Nim4a/picoSun2/releases/latest"><img src="https://img.shields.io/badge/Download_picoSun2-3b82f6?style=for-the-badge&logo=windows&logoColor=white" alt="Download picoSun2"></a>
