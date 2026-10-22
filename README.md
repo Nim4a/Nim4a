@@ -30,6 +30,18 @@
 
 ---
 
+<a href="https://github.com/Nim4a/notepad-rs">
+<img src="https://raw.githubusercontent.com/Nim4a/Nim4a/main/assets/ironpad.png" alt="IronPad — modern dark notepad with tabs, line numbers and syntax colors" width="100%">
+</a>
+
+### 📝 IronPad &nbsp;<sub>featured</sub>
+
+**Rust · egui · Win32** — a modern dark notepad: tabs, line numbers, colorful syntax highlighting, and real Persian/RTL shaping via the native RichEdit control.
+
+[**Repository**](https://github.com/Nim4a/notepad-rs) &nbsp;·&nbsp; [**Download**](https://github.com/Nim4a/notepad-rs/releases/latest)
+
+---
+
 <a href="https://github.com/Nim4a/nima-portfolio">
 <img src="https://raw.githubusercontent.com/Nim4a/nima-portfolio/main/docs/hero.png" alt="Nima Portfolio — three hardcover books on a shelf" width="100%">
 </a>
