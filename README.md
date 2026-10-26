@@ -33,7 +33,7 @@
 
 ---
 
-<a href="https://github.com/Nim4a/notepad-rs">
+<a href="https://github.com/Nim4a/IronPad">
 <img src="https://raw.githubusercontent.com/Nim4a/Nim4a/main/assets/ironpad.png" alt="IronPad — dark notepad with tabs, line numbers and syntax colors" width="100%">
 </a>
 
@@ -41,7 +41,7 @@
 
 **Rust · egui · Win32** — a dark, tabbed notepad with line numbers and syntax highlighting. Persian text renders correctly through the native RichEdit control, not a webview.
 
-[Repository](https://github.com/Nim4a/notepad-rs) · [Download](https://github.com/Nim4a/notepad-rs/releases/latest)
+[Repository](https://github.com/Nim4a/IronPad) · [Download](https://github.com/Nim4a/IronPad/releases/latest)
 
 ---
 
