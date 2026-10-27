@@ -25,8 +25,8 @@
       <stop offset="70%" stop-color="#a855f7" stop-opacity=".8"/>
       <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
     </linearGradient>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" fill="none" stroke="#8ab4ff" stroke-opacity=".055" stroke-width="1"/>
+    <pattern id="grid" width="47" height="43" patternUnits="userSpaceOnUse">
+      <path d="M47 0H0V43" fill="none" stroke="#8ab4ff" stroke-opacity=".055" stroke-width="1"/>
     </pattern>
   </defs>
 
@@ -66,30 +66,30 @@
   </g>
 
   <!-- name -->
-  <text x="150" y="128" font-size="56" font-weight="700" fill="url(#nameGrad)" letter-spacing="-1">Nima Asbagh</text>
+  <text x="149" y="130" font-size="56" font-weight="700" fill="url(#nameGrad)" letter-spacing="-1">Nima Asbagh</text>
 
   <!-- role -->
-  <text x="152" y="164" font-size="14" fill="#8fa3c8" letter-spacing="3.2">WINDOWS SOFTWARE · RUST / PYTHON / TYPESCRIPT</text>
+  <text x="152" y="164" font-size="14" fill="#8fa3c8" letter-spacing="3.1">WINDOWS SOFTWARE · RUST/PYTHON/TYPESCRIPT</text>
 
   <!-- pitch -->
-  <text x="152" y="198" font-size="15.5" fill="#67799b">Photo viewers, notepads, sidebar gadgets — and Cloudflare Workers.</text>
+  <text x="152" y="198" font-size="15.5" fill="#67799b">Photo viewers, a notepad, sidebar gadgets — and some Cloudflare Workers.</text>
 
   <!-- rule -->
-  <rect x="150" y="222" width="900" height="1.5" rx=".75" fill="url(#rule)">
+  <rect x="150" y="221" width="778" height="1.5" rx=".75" fill="url(#rule)">
     <animate attributeName="opacity" values=".35;.9;.35" dur="7s" repeatCount="indefinite"/>
   </rect>
 
   <!-- terminal card -->
   <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">
-    <rect x="812" y="78" width="336" height="102" rx="10" fill="#0d1526" stroke="#ffffff" stroke-opacity=".1"/>
-    <circle cx="832" cy="98" r="3" fill="#ff5f57"/>
-    <circle cx="846" cy="98" r="3" fill="#febc2e"/>
-    <circle cx="860" cy="98" r="3" fill="#28c840"/>
-    <text x="832" y="128" fill="#93a9d1">$ cargo build --release<tspan font-size="12">
+    <rect x="816" y="80" width="332" height="100" rx="9" fill="#0d1526" stroke="#ffffff" stroke-opacity=".1"/>
+    <circle cx="835" cy="99" r="2.8" fill="#ff5f57"/>
+    <circle cx="848" cy="100" r="2.6" fill="#febc2e"/>
+    <circle cx="861" cy="99" r="2.7" fill="#28c840"/>
+    <text x="834" y="129" fill="#93a9d1">$ cargo build --release<tspan font-size="12">
       <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>_</tspan></text>
-    <circle cx="833" cy="150" r="3.5" fill="#4ade80">
+    <circle cx="836" cy="151" r="3.2" fill="#4ade80">
       <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <text x="845" y="155" fill="#7dd3a8">Finished · picoSun2 v2.2.0</text>
+    <text x="847" y="156" fill="#7dd3a8">warning: unused import · 1.2s</text>
   </g>
 </svg>
